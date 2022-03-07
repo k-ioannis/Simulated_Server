@@ -1,0 +1,3 @@
+Num of threads: 4
+Cache capacity: 256
+TTL: 100
